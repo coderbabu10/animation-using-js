@@ -10,6 +10,7 @@
 -   HTML5
 -   JavaScript
 -   CSS
+-   Bootstrap
 
 ## Communication
 
